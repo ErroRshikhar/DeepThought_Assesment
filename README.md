@@ -47,7 +47,7 @@ Quality Control: Applied a strict "Scientific Execution" filter to disqualify PE
 ## 🛠️ Tools Used
 Data Sourcing: DSIR Directory, LinkedIn Sales Navigator, Google Patents.
 
-Data Processing: Python (Pandas/BeautifulSoup), Microsoft Excel.
+Data Processing: Microsoft Excel.
 
 Logic Partner: AI (Gemini/ChatGPT) for technical segment classification.
 
