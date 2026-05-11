@@ -1,4 +1,4 @@
-### Methodology Document: Target Company Research (Federer Profile)
+# Methodology Document: Target Company Research (Federer Profile)
 
 
 
@@ -14,7 +14,7 @@
 
 
 
-###### 1\. Executive Summary of Research Process
+## 1\. Executive Summary of Research Process
 
 The goal of this research was to identify "Federer" companies—technical manufacturing MSMEs that are promoter-led, R\&D-heavy, and showing active growth signals. The process moved from a Broad Universe of \~200 firms down to a Qualified List of 25, applying a strict 30% yield logic.
 
@@ -24,7 +24,7 @@ Every company on the final list is verified to have an in-house R\&D unit recogn
 
 
 
-###### 2\. Sourcing Strategy (The Funnel)
+## 2\. Sourcing Strategy (The Funnel)
 
 **Step 1: Industrial Cluster Mapping (Geographic Initial Universe)**
 
@@ -74,7 +74,7 @@ To find "Growth Signals," I looked for evidence that isn't on a standard landing
 
 
 
-###### 3\. Verification \& Scoring Logic (The 6-Criteria Filter)
+## 3\. Verification \& Scoring Logic (The 6-Criteria Filter)
 
 Criterion,Verification Source,"The ""Federer"" Test"
 
@@ -92,7 +92,7 @@ C6: Growth Signals,Tofler / News,"Checked for revenue growth in recent filings o
 
 
 
-###### 4\. Segment Insights (What I Learned)
+## 4\. Segment Insights (What I Learned)
 
 During this research, three key patterns emerged about the Hyderabad Specialty Manufacturing segment:
 
@@ -110,7 +110,7 @@ During this research, three key patterns emerged about the Hyderabad Specialty M
 
 
 
-###### 5\. Tools \& Code Used
+## 5\. Tools \& Code Used
 
 * **Excel/Google Sheets:** For data structuring and Federer scoring.
 
@@ -128,7 +128,7 @@ During this research, three key patterns emerged about the Hyderabad Specialty M
 
 
 
-###### 6\. Quality Control (Fail List Methodology)
+## 6\. Quality Control (Fail List Methodology)
 
 To ensure a high yield, I documented "Fails" as carefully as "Passes."
 
