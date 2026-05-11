@@ -10,7 +10,7 @@
 
 
 
-###### **Stage 1: The Top-of-Funnel Aggregator (Week 1)**
+## **Stage 1: The Top-of-Funnel Aggregator (Week 1)**
 
 **Goal:** Cast a wide but mathematically precise net to gather 10,000 raw domains.
 
@@ -36,7 +36,7 @@
 
 
 
-###### Stage 2: The Semantic Classifier (Week 2)
+## Stage 2: The Semantic Classifier (Week 2)
 
 **Goal:** Automate Criterion 1 (Manufacturer), 3 (Differentiated), and 4 (Tech DM) to eliminate commodities, traders, and software companies.
 
@@ -72,7 +72,7 @@
 
 
 
-###### **Stage 3:** The Reality Check — Financial \& Ownership Triangulation (Week 3)
+## **Stage 3:** The Reality Check — Financial \& Ownership Triangulation (Week 3)
 
 **Goal:** Automate Criterion 6 (Growth) and ensure they fit the strict MSME revenue/ownership constraints.
 
@@ -112,7 +112,7 @@ Pass condition: If headcount has grown by >5%, or if they have 5+ active job pos
 
 
 
-###### Stage 4: Human-in-the-Loop \& Hyper-Personalization (Week 4)
+## Stage 4: Human-in-the-Loop \& Hyper-Personalization (Week 4)
 
 **Goal:** Final quality control and generating the outreach assets to secure the 1,000 final list.
 
@@ -156,7 +156,7 @@ Humans review the hook, approve it, and finalize the CSV.
 
 
 
-###### Anticipated Edge Cases \& Solutions
+## Anticipated Edge Cases \& Solutions
 
 1. **"The Ghost MSME" (No Website):** Many brilliant technical founders have terrible, broken websites. Solution: If a company fails the Week 2 Website scrape but is present in the DSIR R\&D Govt list, bypass the AI website check and route directly to human review.
 
