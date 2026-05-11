@@ -29,16 +29,12 @@ research_output.csv: The final list of 25 qualified companies with detailed scor
 
 methodology.md: A deep dive into the research process, tools used, and segment-specific learnings.
 
-scripts/: (Optional) Python scripts or API prompts used for data scraping or classification.
-
-Fail_List_Documentation.md: Analysis of companies that were rejected (the 70% yield logic).
-
 ## 🔬 Research Methodology
 My research focused on the Hyderabad Hub within the Specialty Biotech & Chemicals segment.
 
 Primary Source: Cross-referenced the DSIR (Department of Scientific & Industrial Research) directory to verify R&D units.
 
-Cluster Mapping: Targeted specific zones like Genome Valley and IDA Pashamylaram.
+Cluster Mapping: Targeted specific zones like Genome Valley and IDA Pashamylaram in Hyderabad.
 
 Financial Scrutiny: Used Zauba Corp/Tofler to ensure revenue fell within the ₹50Cr–₹500Cr sweet spot.
 
